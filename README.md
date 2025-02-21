@@ -31,6 +31,16 @@
 
 ---
 
+
+
+## 📌 GitHub Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rayhan212k&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+
 ## 📫 Connect With Me
 - **GitHub**: [Rayhan212k](https://github.com/Rayhan212k)
 - **LinkedIn**: [Rayhan](https://www.linkedin.com/in/md-rayhan-104330272/)
